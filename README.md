@@ -46,7 +46,11 @@
 
 （2）建议先实现基本功能，再提升局部性能；
 
-## 4. 其他参考
+## 4. 联系
+
+Email ：sonechaochao@gmail.com
+
+## 5. 其他参考
 
 [paho](https://github.com/eclipse?q=paho&type=&language=)
 
